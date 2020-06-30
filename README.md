@@ -7,7 +7,7 @@ Uses the wallpaper.exe file built from source on 6/30/2020 from github.com/hiren
 ## Setup
 This works on Windows 10.
 
-Check out github.com/hirenchauhan2/wallpaper for the source on the ```wallpaper``` command; I had to build that from source using hirenchauhan2's instructions on the README. I dropped the executable in the same directory as the apod.go source file.
+Check out https://github.com/hirenchauhan2/wallpaper for the source on the ```wallpaper``` command; I had to build that from source using hirenchauhan2's instructions on the README. I dropped the executable in the same directory as the ```apod.go``` source file.
 
 Don't just keep using the DEMO_KEY, it has a 30 req/IP/hr limit and a 50 req/IP/day limit as well.
 
